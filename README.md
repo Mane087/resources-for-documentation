@@ -4,7 +4,7 @@
 - Draw.io: https://app.diagrams.net/
 - Lucidchart: https://www.lucidchart.com/pages/es
 - DBdiagram.io: https://dbdiagram.io/home
-- Mermaid: https://excalidraw.com/
+- Mermaid: https://mermaid.live/
 - PlantText: https://www.planttext.com/
 
 ## Redaccion con IA
